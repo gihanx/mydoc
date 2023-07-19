@@ -29,3 +29,13 @@ Backup those files as zip/rar, Don't trust Epic Launcher
 ### Delete Unwanted Templates
 1. In `Program Files\Epic Games\UE_4.27\Templates`
 2. Delete templates that you may never use
+
+
+
+
+
+
+
+
+
+
