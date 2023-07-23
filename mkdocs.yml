@@ -94,9 +94,8 @@ nav:
   - HyperV: software/hyperv.md
   - Server2022: software/srv22-install.md
 
-- EXTRA:
-  - Quicksave: extra/quicksave.md
-  - Animation: extra/animation.md
+- ANIMATION:
+  - Animation: animation/animation.md
 
 - LINUX:
   - Linux: linux/linux.md
@@ -105,3 +104,5 @@ nav:
   - Tun2Socks: linux/tun2socks.md
   - Git/Github: linux/git.md
   - NeoVim: linux/neovim.md
+  
+- Quicksave: quicksave.md

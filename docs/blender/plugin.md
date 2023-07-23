@@ -4,7 +4,7 @@ hide:
  - path
  - title
 ---
-## Blender Addons
+## Blender Addons for Hardsurface Modeling
 ---
  ### Built-In
 - Bool Tool

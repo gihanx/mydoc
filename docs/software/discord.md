@@ -14,6 +14,8 @@ Source: fernbacher
 
 ## Extra 
 
+Discord Theme Editor [BDEditor](https://bdeditor.dev/themes)
+
 Use [OpenAsar](https://openasar.dev/)
 
 <details>
@@ -159,4 +161,3 @@ display: none;
 WebCord [🔗](https://github.com/SpacingBat3/WebCord)
 
 Ripcord [🔗](https://cancel.fm/ripcord/)
-

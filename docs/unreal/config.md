@@ -29,7 +29,7 @@ Yay now you just need a folder.
 
 > When migrating Unreal checks for **Content** folder and **.uproject** file
 
-## Quick Commands
+## Quick Commands to Disable On-Screen Warning
 
 ``DisableAllScreenMessages`` <br>
 ``EnableAllScreenMessages``

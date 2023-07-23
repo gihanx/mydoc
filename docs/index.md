@@ -38,3 +38,5 @@ hide:
 [RamStudios Github](https://github.com/ramstudiosgames)
 
 [Unreal Learning](https://dev.epicgames.com/community/unreal-engine/learning)
+
+[VideoHelp - Forum and Software downloads](https://www.videohelp.com/)
