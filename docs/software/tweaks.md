@@ -76,3 +76,7 @@ Registry location ``HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\``
 2 = Automatic <br>
 3 = Manual <br>
 4 = Disable <br>
+
+## Remove Windows CTRL+ALT+DELETE logon restrection
+
+![](./assets/lpg.png)

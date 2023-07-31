@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\docs"
+    "\\docs",
+    "\\docs\\houdini",
+    "\\docs\\software",
+    "\\docs\\software\\assets"
   ],
-  "SelectedNode": "\\mkdocs.yml",
+  "SelectedNode": "\\docs\\software\\tweaks.md",
   "PreviewInSolutionExplorer": false
 }
